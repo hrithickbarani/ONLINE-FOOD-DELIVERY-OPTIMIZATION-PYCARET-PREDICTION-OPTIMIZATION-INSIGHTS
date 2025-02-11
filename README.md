@@ -6,6 +6,19 @@ Analyze key factors affecting delivery efficiency, identify delay causes, and pr
 ## Dataset Description
 The dataset contains multiple features related to deliveries, including delivery personnel information, order details, traffic conditions, and delivery time.
 
+### Libraries used
+- import **pandas** as pd
+- import **numpy** as np
+- import **matplotlib.pyplot** as plt
+- import **seaborn** as sns
+- from **pycaret.regression** import *
+- from **geopy.distance** import geodesic
+- import **folium**
+- from **folium.plugins** import **HeatMap**
+- from **sklearn.preprocessing** import **OrdinalEncoder**
+- from **sklearn.preprocessing** import **StandardScaler**
+- from **sklearn.model_selection** import **train_test_split**
+
 ### Features
 - **ID**: Unique identifier for each delivery.
 - **Delivery_person_ID**: Unique identifier for each delivery person.
