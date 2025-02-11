@@ -1,7 +1,9 @@
 # **ZOMATO-DELIVERY-DATA-ANALYSIS-PYCARET-PREDICTION-OPTIMIZATION**
 
+## Please open '.ipynb' file to have a look at full python code with detailed insights and visualizations.
+
 ## Objective
-Analyze key factors affecting delivery efficiency, identify delay causes, and propose actionable strategies to optimize delivery performance.
+Analyze Zomato delivery data to uncover key factors affecting delivery time, build a predictive model using PyCaret for accurate time estimation, and provide data-driven optimization strategies to enhance delivery efficiency.
 
 ## Dataset Description
 The dataset contains multiple features related to deliveries, including delivery personnel information, order details, traffic conditions, and delivery time.
@@ -61,7 +63,7 @@ The dataset contains multiple features related to deliveries, including delivery
 - **City Type**: Urban deliveries are **quicker (23.5 mins)** compared to semi-urban areas (**49.7 mins**).
 
 ### Geo-Spatial Analysis
-A **heatmap** of delivery locations was created using **Folium** to visualize high-demand areas.
+A **heatmap** was created to visualize delivery locations using **folium**. The heatmap highlights areas with high delivery density, which can help optimize delivery routes.
 
 ### Correlation Analysis
 - **Distance vs. Time Taken**: Moderate positive correlation (0.41).
