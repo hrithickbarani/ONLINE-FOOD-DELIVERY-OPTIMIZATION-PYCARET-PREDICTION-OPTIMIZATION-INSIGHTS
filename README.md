@@ -82,6 +82,9 @@ Using **PyCaret**, a regression model was built to predict delivery time based o
 
 - **Model Performance**: The predicted delivery time closely aligns with actual times, confirming high accuracy.
 
+## Saving and Loading the Model
+The trained model was saved for future predictions, saved as **"rf_reg_pipeline.pkl"**.
+
 ## Key Recommendations for Optimization
 
 ### 1. **Enhance Delivery Speed**
