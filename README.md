@@ -1,9 +1,9 @@
-# **ZOMATO-DELIVERY-DATA-ANALYSIS-PYCARET-PREDICTION-OPTIMIZATION**
+# **ONLINE-FOOD-DELIVERY-OPTIMIZATION-PYCARET-PREDICTION-OPTIMIZATION**
 
 ## Please open '.ipynb' file to have a look at full python code with detailed insights and visualizations.
 
 ## Objective
-Analyze Zomato delivery data to uncover key factors affecting delivery time, build a predictive model using PyCaret for accurate time estimation, and provide data-driven optimization strategies to enhance delivery efficiency.
+This dataset mimics real-world **Feastify** delivery patterns, allowing analysis of key factors affecting delivery time. The project involves building a predictive model using PyCaret for accurate time estimation and providing data-driven optimization strategies to improve delivery efficiency.
 
 ## Dataset Description
 The dataset contains multiple features related to deliveries, including delivery personnel information, order details, traffic conditions, and delivery time.
